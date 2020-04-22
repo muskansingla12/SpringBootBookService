@@ -1,0 +1,5 @@
+---
+applications:
+- name: Book
+  host: Book-Service1234
+  path: target/demo-0.0.1-SNAPSHOT.war
